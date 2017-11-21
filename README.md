@@ -1,6 +1,6 @@
 # Illicit-Thoughts.md 
 
-This README would normally document whatever steps are necessary to get the
+this content
 application up and running.
 
 Things you may want to cover:
